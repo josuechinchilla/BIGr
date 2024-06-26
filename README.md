@@ -16,7 +16,7 @@ library("BIGr")
 ## Contributors
 Alex Sandercock
 
-Josue Chinchilla Vargas
+Josue Chinchilla-Vargas
 
 Dongyan Zhao
 
